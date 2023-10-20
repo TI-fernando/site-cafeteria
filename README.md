@@ -4,7 +4,7 @@ Este é um projeto de modelo para um site de cafeteria responsivo. O site foi cr
 
 ## Demonstração
 
-<img src="" alt="Demo">
+<img src="src/img/Animação.gif" alt="Demo">
 
 ## Conteúdo
 
