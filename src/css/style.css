@@ -127,7 +127,7 @@ header.shadow {
 .home {
   width: 100%;
   min-height: 100vh;
-  background: var(--text-color);
+  background: url(../img/bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
